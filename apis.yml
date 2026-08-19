@@ -32,7 +32,7 @@ x-acquired-year: 2021
 x-enrichment-note: 'No public API surface. Domain 301-redirects to marvell.com; all /.well-known/ probes
   redirect to Marvell (403). Hardware/silicon company with no developer program. No API artifacts to
   search, generate, or derive.'
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-19'
 tags:
