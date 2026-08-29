@@ -31,6 +31,8 @@ description: 'Innovium, Inc. was a Santa Clara, California semiconductor company
   company shipped hardware silicon, not a public developer API — innovium.com now redirects to
   marvell.com, and there is no developer portal, OpenAPI, or programmatic API surface to enrich.'
 url: https://raw.githubusercontent.com/api-evangelist/innovium/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
