@@ -71,6 +71,11 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: ParentCompany
+  url: https://apis.io/providers/marvell-technology/
+  name: Marvell Technology
+  x-relationship: acquired
+  x-evidence: "Backed by Greylock and other deep-tech investors, Innovium was acquired by Marvell Technology in 2021 (~$1."
 - type: Website
   url: http://innovium.com
 x-enrichment:
